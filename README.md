@@ -64,3 +64,7 @@ Interested in mobile apps, thoughtful interfaces or learning together? **Let's c
 *Made with curiosity, code and a little purple.*
 
 </div>
+
+
+<!-- Upload stars-ending.gif beside README.md. Upload the game to your portfolio repository first. -->
+[![Thanks for visiting — play Catch the Stars](stars-ending.gif)](https://koasarsaeedss-bot.github.io/catch-the-stars.html)
