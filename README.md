@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/header.gif" width="100%" alt="Kosar Saeed — Flutter developer, with animated purple waves and stars" />
+<img src="header.gif" width="100%" alt="Kosar Saeed — Flutter developer, with animated purple waves and stars" />
 
 **[Portfolio](https://koasarsaeedss-bot.github.io) · [Email](mailto:koasarsaeedss@gmail.com) · [My repositories](https://github.com/koasarsaeedss-bot?tab=repositories) · [Fiverr](https://www.fiverr.com/kosar_saeed)**
 
-<img src="assets/terminal.gif" width="100%" alt="Building Flutter apps, learning Java and DSA, and designing thoughtful interfaces" />
+<img src="terminal.gif" width="100%" alt="Building Flutter apps, learning Java and DSA, and designing thoughtful interfaces" />
 
 </div>
 
@@ -39,7 +39,7 @@ I'm **Kosar Saeed**, a second-year Computer Science student at **Mehran Universi
 
 ## 🌱 Learning journey
 
-<img src="assets/journey.gif" width="100%" alt="Learn, build, improve — animated purple cards" />
+<img src="journey.gif" width="100%" alt="Learn, build, improve — animated purple cards" />
 
 | Strengthening | Exploring | Building |
 |:---|:---|:---|
